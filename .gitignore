@@ -1,0 +1,7 @@
+copper_api_key.txt
+copper_api_user.txt
+copper_postman_collection.json
+.vs
+.ipynb_checkpoints
+__pycache__
+Tests.py
